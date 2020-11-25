@@ -9,9 +9,9 @@ You can find the official version of this deployed project at [PartNerd](https:/
 
 ---
 
-**PartNerd** is an application that allows **project owners** and people with great ideas to add new projects to a database, an algorithmic controlled marketplace in order to match them with registered **web developers** who've built their matching profiles.
+**PartNerd** is an application that allows **project owners** and people with great ideas to add new projects to a database, and browse an algorithmic based marketplace in order to match them with registered digital creators who've built their matching profiles to connect.
 
-[Deployed Front End (Staging)](https://staging.d1q97okbcd2s3b.amplifyapp.com/)
+[Deployed Front End (AWS)](https://staging.d1q97okbcd2s3b.amplifyapp.com/)
 
 <br />
 
