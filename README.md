@@ -22,7 +22,7 @@ You can find the official version of this deployed project at [PartNerd](https:/
 
 ## Contributors
 
-|[Bradley Pitts](https://github.com/BPitts8019)| [Stephen Tanksley](https://github.com/StephenTanksley) | [Joe Medrano](https://github.com/JoeLorenzo) | [Andrew Speer](https://github.com/nottolivc) | [Tara Sherman](https://github.com/taraSherman)| [Danielle Baxter](https://github.com/danibaxx)| [Raymond Thurman](https://github.com/raythurman2386)|
+Andrew Speer](https://github.com/nottolivc) |[Bradley Pitts](https://github.com/BPitts8019)| [Stephen Tanksley](https://github.com/StephenTanksley) | [Joe Medrano](https://github.com/JoeLorenzo) | [Danielle Baxter](https://github.com/danibaxx)| [Raymond Thurman](https://github.com/raythurman2386)|
 <br>
 <br>
 
@@ -50,7 +50,7 @@ Why did you choose this framework?
 -  Agile scalable components with MUI
 -  Agile dev environment works well with React
 
-#### Front end deployed to `AWS` (https://partnerd.dev)
+Front end also deployed to `AWS` (https://partnerd.dev)
 
 ## Client Installation
 
