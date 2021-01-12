@@ -18,7 +18,7 @@ You can find the official version of this deployed project at [PartNerd](https:/
 ## Code Climate Score
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/6cb88c1d56b485753fa4/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/nusite-fe/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/6cb88c1d56b485753fa4/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/nusite-fe/test_coverage)
+
 
 ## Contributors
 
